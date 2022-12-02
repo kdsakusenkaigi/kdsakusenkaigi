@@ -730,3 +730,5 @@ p.ad-label {margin: 48px 0 0 0; }
 /* コメント一覧用 */
 /* 応援ありがとうございます */
 
+/* マーカー  */
+.marker_yellow { background:linear-gradient(transparent 60%, #ffff00 0%); }
