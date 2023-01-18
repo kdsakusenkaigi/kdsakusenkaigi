@@ -112,13 +112,14 @@ body {margin: 0;padding: 0;}
 	line-height: 1.3;			/* 行の高さ */
 }
 #header .top_title a {
-	color: #fff;
+	color: #f00;
 	text-decoration: none;
 }
 
 #header .caption {
 	font-size: 60%;				/* 文字サイズ */
 	display: inline-block;
+	color: #000080;
 }
 
 /* ヘッダー下の帯 */
