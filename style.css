@@ -736,3 +736,6 @@ p.ad-label {margin: 48px 0 0 0; }
 .marker_pink { background:linear-gradient(transparent 60%, #fec1fe 0%); }
 .marker_blue { background:linear-gradient(transparent 60%, #00d2ff 0%); }
 .marker_orange { background:linear-gradient(transparent 60%, #fcb848 0%); }
+
+/* リンク用  */
+.link_orange { color: royalblue; font-weight: bold;}
